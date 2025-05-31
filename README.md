@@ -30,7 +30,3 @@ bash <(curl -s https://raw.githubusercontent.com/SkyzoOffc/Pterodactyl-Theme-Aut
 |                  | 12      | :white_check_mark: |
 
 _\* di atas adalah os yang saya test, selebihnya bisa di test sendiri._
-
-## Credits 
-- Recode By [ Skyzoe ](https://github.com/SkyzoOffc)
-- Created by [ FOXSTORE ](https://github.com/Foxstoree)
